@@ -1,4 +1,18 @@
+This is a modifications of yellows8's hblauncher_loader, which you can get here:
+https://github.com/yellows8/hblauncher_loader
+
+Modifications:
+* When downloading the payload it always gets saved even without pressing Y
+* A duplicate from the payload get created with the extension _GRD
+* The duplicated payload gets modified to boot "bgrd.3dsx" instead of "boot.3dsx" (Every occurence of boot.3dsx gets replaced with bgrd.3dsx -> might not always work, but can't break anything
+* Removed some print instructions
+* Added some print instructions
+* Icon to implicate a grid view
+* Different Banner
+
+
 This is a 3DS homebrew application intended for running under a NCCH(which can be installed via .cia), for booting the *hax payloads. https://smealum.github.io/3ds/  
+The only difference tho yellows8s version is that the payload gets modified to boot bgrd.3dsx instead of boot.3dsx
 
 This app was mostly finished in October 2015, this was finally released on November 25, 2015, due to the custom logo being finished.
 
