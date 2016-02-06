@@ -4,7 +4,7 @@ https://github.com/yellows8/hblauncher_loader
 Modifications:
 * When downloading the payload it always gets saved even without pressing Y
 * A duplicate from the payload get created with the extension _GRD
-* The duplicated payload gets modified to boot "bgrd.3dsx" instead of "boot.3dsx" (Every occurence of boot.3dsx gets replaced with bgrd.3dsx -> might not always work, but can't break anything
+* The duplicated payload gets modified to boot "bgrd.3dsx" instead of "boot.3dsx" (Every occurence of boot.3dsx gets replaced with bgrd.3dsx -> might not always work, but can't break anything)
 * Removed some print instructions
 * Added some print instructions
 * Icon to implicate a grid view
