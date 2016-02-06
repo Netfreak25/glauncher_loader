@@ -10,6 +10,12 @@ Modifications:
 * Icon to implicate a grid view
 * Different Banner
 
+Usage:
+* Rename your "boot.3dsx" from your GridView Launcher to "bgrd.3dsx"
+* Move "bgrd.3dsx" to the root of the SDCard
+* Install the cia with e.g. fbi, nasa, whatever
+* Launch the Application
+* The modified payload should load now and load bgrd.3dsx (maybe payload gets downloaded first)
 
 This is a 3DS homebrew application intended for running under a NCCH(which can be installed via .cia), for booting the *hax payloads. https://smealum.github.io/3ds/  
 The only difference tho yellows8s version is that the payload gets modified to boot bgrd.3dsx instead of boot.3dsx
